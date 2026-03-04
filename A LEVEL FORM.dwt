@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-gb" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>ALUKA SECONDARY SCHOOL</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+	background-color: #FFFFFF;
+}
+.auto-style3 {
+	font-family: "Bernard MT Condensed";
+	font-size: x-large;
+	color: #0066FF;
+	background-color: #FFFFFF;
+}
+.auto-style2 {
+	background-color: #FFFFFF;
+}
+.auto-style5 {
+	text-align: center;
+	font-family: "Brush Script MT";
+	font-size: x-large;
+	background-color: #FFFFFF;
+}
+.auto-style4 {
+	font-family: Century;
+	font-size: medium;
+}
+.auto-style7 {
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+.auto-style10 {
+	background-color: #FFFFFF;
+	font-family: Impact;
+	text-align: center;
+}
+.auto-style11 {
+	font-family: Impact;
+}
+</style>
+<script type="text/javascript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'../../AppData/Local/Microsoft/Windows/INetCache/Microsoft Expression Web 4/button11.jpg'',/*url*/'../../AppData/Local/Microsoft/Windows/INetCache/Microsoft Expression Web 4/button12.jpg'')">
+
+<p class="auto-style1"><img alt="" height="31" src="facebook.jpg" width="21" />
+<img alt="" height="28" src="twitter.png" width="20" /></p>
+<p class="auto-style1"><span class="auto-style3">ALUKA SECONDARY SCHOOL</span><br class="auto-style2" />
+<img alt="" height="78" src="braniz.png" width="67" /></p>
+<p class="auto-style5"><em><marquee>"The struggle continues"</marquee></em></p>
+<table class="auto-style4" style="width: 100%">
+	<tr>
+		<td class="auto-style7">HOME</td>
+		<td class="auto-style10">ADMISSION</td>
+		<td class="auto-style1"><span class="auto-style11">STUDENTS' LIFE</td>
+		<td class="auto-style1">ACADEMICS</td>
+		<td class="auto-style1">ABOUT US</span></td>
+	</tr>
+</table>
+<p>'A' LEVEL ADMISSION FORM;-</p>
+<p>PERSONAL DETAILS</p>
+<p>SURNAME:<!-- #BeginEditable "A" -->&nbsp;<!-- #EndEditable --></p>
+<p>GIVEN NAME:</p>
+<p>DATE OF BIRTH:</p>
+<p style="width: 159px">MARKS OBTAINED:<br />
+MATHEMATICS<br />
+ENGLISH<br />
+CHEMISTRY<br />
+GEOGRAPHY<br />
+BIOLOGY<br />
+AGRICULTURE<br />
+ICT<br />
+PHYSICS<br />
+ENTERPRENEURSHIP<br />
+PERFORMING ART<br />
+ART &amp; DESIGN<br />
+CRE/IRE<br />
+HISTORY &amp; PED<br />
+PE<br />
+CHINESE<br />
+FRENCH<br />
+ARABIC</p>
+<p>AVERAGE SCORE</p>
+<p>DISABILITIES</p>
+<p>PARENTS' DETAILS<br />
+FATHERS' FULLNAME:<br />
+FATHERS' NIN:</p>
+<p>MOTHERS' DETAILS<br />
+MOTHERS' FULLNAME:<br />
+MOTHERS NIN:</p>
+<p>
+<img id="img1" alt="SUBMIT" height="20" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'../../AppData/Local/Microsoft/Windows/INetCache/Microsoft Expression Web 4/button12.jpg'')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'../../AppData/Local/Microsoft/Windows/INetCache/Microsoft Expression Web 4/buttonA.jpg'')" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'../../AppData/Local/Microsoft/Windows/INetCache/Microsoft Expression Web 4/button11.jpg'')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'../../AppData/Local/Microsoft/Windows/INetCache/Microsoft Expression Web 4/button11.jpg'')" src="buttonA.jpg" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Corporate 9" fp-title="SUBMIT" --><br />
+</p>
+
+</body>
+
+</html>
